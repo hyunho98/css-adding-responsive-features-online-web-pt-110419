@@ -3,6 +3,10 @@
   #social {
     position: absolute;
     width: auto;
-    margin: 82px 4px 0 0; 
+    margin: 82px 4px 0 0;
    }
+}
+
+@media only screen and (max-width: 900px) {
+  
 }

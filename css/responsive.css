@@ -29,9 +29,3 @@
   .border-right { border: 0; }
   #details div { height: auto; }
 }
-
-@media only screen and (max-width: 700px) {
-  #logo { visibility: hidden; }
-  #navbar nav { visibility: hidden; }
-  .clearfix:after { visibility: visible;}
-}
